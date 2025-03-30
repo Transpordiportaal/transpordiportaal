@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.2.2/css/dataTables.dataTables.css" />
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
+    <script src="data.js"></script>
+    <title>Transpordiportaal</title>
+</head>
+
+<body>
+    <div style="margin: 12px;">
+        <h1 style="text-align: center;"> Transpordiportaal</h1>
+    </div>
+    <hr>
+
+    <div style="margin: 12px;">
+        <table id="infoTable" class="display">
+            <thead id="infoTableHeader">
+            </thead>
+        </table>
+    </div>
+</body>
+
+<script>
+    $(document).ready(function () {
+        $('#infoTable').DataTable();
+    });
+
+    new DataTable('#infoTable', {
+        initComplete: function () {
+            this.api()
+                .columns()
+                .every(function () {
+                    let column = this;
+
+                    // Create select element
+                    let select = document.createElement('select');
+                    select.add(new Option(''));
+                    column.header().appendChild(select);
+
+                    // Apply listener for user change in value
+                    select.addEventListener('change', function () {
+                        column
+                            .search(select.value, { exact: true })
+                            .draw();
+                    });
+
+                    // Add list of options
+                    column
+                        .data()
+                        .unique()
+                        .sort()
+                        .each(function (d, j) {
+                            select.add(new Option(d));
+                        });
+                });
+        },
+        language: {
+            url: 'https://cdn.datatables.net/plug-ins/2.2.2/i18n/et.json',
+        },
+        columns: dataColumns,
+        data: dataSet,
+        pageLength: 25,
+    });
+</script>
+
+</html>
