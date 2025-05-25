@@ -1,12 +1,12 @@
 const dataColumns = [
-    { title: 'Väljumine' },
-    { title: 'Lähteriik' },
-    { title: 'Lähtekoht' },
-    { title: 'Sihtriik.' },
+    { title: 'Väljumine ' },
+    { title: 'Lähteriik ' },
+    { title: 'Lähtekoht ' },
+    { title: 'Sihtriik. ' },
     { title: 'Sihtkoht' },
-    { title: 'Lastiruum (ldm)' },
-    { title: 'Kaal (t)' },
-    { title: 'Haagisetüüp' }
+    { title: 'Lastiruum (ldm) ' },
+    { title: 'Kaal (t) ' },
+    { title: 'Haagisetüüp ' }
 ]
 
 const rawData = `
