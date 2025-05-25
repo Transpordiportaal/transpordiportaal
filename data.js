@@ -1023,4 +1023,3 @@ Väljumine	Lähteriik	Lähtekoht (linn, asula)	Sihtriik	Sihtkoht (linn, asula)	L
 `;
 
 const dataSet = rawData.trim().split('\n').slice(1).map(it => it.split('\t'))
-console.log(dataSet)
