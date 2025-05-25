@@ -7,66 +7,110 @@
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"
         integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdn.datatables.net/2.2.2/css/dataTables.dataTables.css" />
+    <link rel="stylesheet" href="style.css">
     <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
     <script src="data.js"></script>
     <title>Transpordiportaal</title>
 </head>
 
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 40px;
+        background-color: #f9f9f9;
+        color: #333;
+    }
+
+    h1 {
+        color: #005a9c;
+    }
+
+    h2 {
+        margin-top: 30px;
+        color: #333;
+    }
+
+    p {
+        margin-bottom: 1em;
+    }
+
+    dl {
+        margin-top: 1em;
+    }
+
+    dt {
+        font-weight: bold;
+        margin-top: 10px;
+    }
+
+    dd {
+        margin: 0 0 10px 20px;
+    }
+</style>
+
 <body>
-    <div style="margin: 12px;">
-        <h1 style="text-align: center;">Transpordiportaal</h1>
-    </div>
-    <hr>
 
-    <div style="margin: 12px;">
-        <table id="infoTable" class="display">
-            <thead id="infoTableHeader">
-            </thead>
-        </table>
+    <div class="banner">
+        <img src="banner.png" alt="Banner" />
     </div>
+
+    <nav class="navbar">
+        <a id="active-nav" href="index.html">Avaleht</a>
+        <a href="rahvusvahelised_maanteeveaosed.html">Rahvusvahelised maanteeveosed</a>
+        <a href="kasulik_teada.html">Kasulik teada</a>
+        <a href="kontakt.html">Kontakt</a>
+    </nav>
+
+    <div>
+        <h1>Hea transpordiportaali kasutaja!</h1>
+
+        <p>
+            Transpordiportaal on mõeldud kasutamiseks õppetegevuses, eelkõige koorma planeerimises
+            ja rahvusvahelise veo korraldamises.
+        </p>
+
+        <h2>Rahvusvahelise maanteeveoste andmebaasi kasutamine:</h2>
+
+        <div class="highlight">
+            <p>Iga andmebaasi rida tähendab ühte klienti ja veost.</p>
+        </div>
+
+        <dl>
+            <dt>Väljumine</dt>
+            <dd>Kuupäev, millal peab toimuma veose pealelaadimine.</dd>
+
+            <dt>Lähteriik</dt>
+            <dd>Veose asukoha riik (nt GER, FRA, HUN, POL jne).</dd>
+
+            <dt>Lähtekoht</dt>
+            <dd>Veose asukoha linn või asula, kus tuleb teostada pealelaadimine.</dd>
+
+            <dt>Sihtriik</dt>
+            <dd>Riik kuhu veos tuleb transportida (nt EST).</dd>
+
+            <dt>Sihtkohta</dt>
+            <dd>Linn või asula, kus toimub veose mahalaadimine.</dd>
+
+            <dt>Lastiruum (LDM)</dt>
+            <dd>Kauba kogus ehk veose ruumivajadus veoühikus.</dd>
+
+            <dt>Kaal (t)</dt>
+            <dd>Veose kaal tonnides.</dd>
+
+            <dt>Haagise tüüp</dt>
+            <dd>Eelistatud haagis veose transportimiseks.</dd>
+        </dl>
+
+        <p>
+            Lehelt <strong>„Kasulik teada“</strong> saab lugeda lühikirjeldust haagiste tüüpidest.
+            Leiad riikide kahetähelised lühendid ja tarneklauslite lühikirjelduse.
+        </p>
+
+        <p><strong>Edukat kasutamist ja õppimist!</strong></p>
+    </div>
+
+
 </body>
-
-<script>
-    $(document).ready(function () {
-        $('#infoTable').DataTable();
-    });
-
-    new DataTable('#infoTable', {
-        initComplete: function () {
-            this.api()
-                .columns()
-                .every(function () {
-                    let column = this;
-
-                    // Create select element
-                    let select = document.createElement('select');
-                    select.add(new Option(''));
-                    column.header().appendChild(select);
-
-                    // Apply listener for user change in value
-                    select.addEventListener('change', function () {
-                        column
-                            .search(select.value, { exact: true })
-                            .draw();
-                    });
-
-                    // Add list of options
-                    column
-                        .data()
-                        .unique()
-                        .sort()
-                        .each(function (d, j) {
-                            select.add(new Option(d));
-                        });
-                });
-        },
-        language: {
-            url: 'https://cdn.datatables.net/plug-ins/2.2.2/i18n/et.json',
-        },
-        columns: dataColumns,
-        data: dataSet,
-        pageLength: 25,
-    });
-</script>
 
 </html>

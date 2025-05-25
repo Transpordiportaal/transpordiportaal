@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.2.2/css/dataTables.dataTables.css" />
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
+    <script src="data.js"></script>
+    <title>Transpordiportaal - Kasulik teada</title>
+</head>
+
+<body>
+    <nav class="navbar">
+        <a href="index.html">Avaleht</a>
+        <a href="rahvusvahelised_maanteeveaosed.html">Rahvusvahelised maanteeveosed</a>
+        <a id="active-nav" href="kasulik_teada.html">Kasulik teada</a>
+        <a href="kontakt.html">Kontakt</a>
+    </nav>
+
+    <div>
+        <h1>Kasulik teada</h1>
+
+        <h2>Haagiste tüübid</h2>
+        <p><strong>Bokstreiler</strong> - Suletud koormaruumiga, jäikade külgseinte ja katusega poolhaagis, kus on
+            seintel ning põrandal hulgaliselt kinnituskohti lasti kinnitamiseks koormarihmadega.</p>
+
+        <p><strong>Kardintreiler</strong> - Tenttreiler, mille külgi on võimalik hõlpsasti avada lükates siinidel
+            liikuvat tenti. Külgkardinad on valmistatud tugevast materjalist, mille aluspõhjaks on spetsiaalne kootud
+            kangas. Hõlpsasti on võimalik avada ka kardintreileri katust. Kardintreilerid hõlbustavad külg‐ ja
+            pealtlaadimist. Katusematerjal laseb läbi päevavalgust, mis hõlbustab laadimistöid päevavalguses ja
+            suurendab tööohutust laadimisel.</p>
+
+        <p><strong>Eurotreiler</strong> – Eurotreilerid on tenthaagised ehk pulmanhaagised, mille karkass on kaetud
+            veekindla kattega, mida nimetatakse tendiks. Küljelt laadimine on lihtne, sest tent tõstetakse peale- või
+            maha laadimise ajaks kas osaliselt või täielikult üles.</p>
+
+        <p><strong>Megatreiler</strong> – Poolhaagis kõrgusega 3,0 m, mille koormaruumi maht on ca 100 m³. Megatreileri
+            haakesadula kõrgus teepinnast on 960 mm ja selle all kasutatakse tavatreilerite omadest väiksema läbimõõduga
+            rehve.</p>
+
+        <p><strong>Termotreiler</strong> – Külmutus- ja jahutusseadet omav poolhaagis, millega saab vedada lasti
+            külmutuskapi temperatuuril (4–6°C) või külmutusrežiimil (-18°C).</p>
+
+        <h2>Riikide kahetähelised lühendid</h2>
+        <div class="box">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Riik</th>
+                        <th>Lühend</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Eesti</td>
+                        <td>EE</td>
+                    </tr>
+                    <tr>
+                        <td>Prantsusmaa</td>
+                        <td>FR</td>
+                    </tr>
+                    <tr>
+                        <td>Ungari</td>
+                        <td>HU</td>
+                    </tr>
+                    <tr>
+                        <td>Läti</td>
+                        <td>LV</td>
+                    </tr>
+                    <tr>
+                        <td>Hispaania</td>
+                        <td>ES</td>
+                    </tr>
+                    <tr>
+                        <td>Sloveenia</td>
+                        <td>SI</td>
+                    </tr>
+                    <tr>
+                        <td>Leedu</td>
+                        <td>LT</td>
+                    </tr>
+                    <tr>
+                        <td>Šveits</td>
+                        <td>CH</td>
+                    </tr>
+                    <tr>
+                        <td>Slovakkia</td>
+                        <td>SK</td>
+                    </tr>
+                    <tr>
+                        <td>Poola</td>
+                        <td>PL</td>
+                    </tr>
+                    <tr>
+                        <td>Itaalia</td>
+                        <td>IT</td>
+                    </tr>
+                    <tr>
+                        <td>Horvaatia</td>
+                        <td>HR</td>
+                    </tr>
+                    <tr>
+                        <td>Saksamaa</td>
+                        <td>DE</td>
+                    </tr>
+                    <tr>
+                        <td>Austria</td>
+                        <td>AU</td>
+                    </tr>
+                    <tr>
+                        <td>Tsehhi</td>
+                        <td>CZ</td>
+                    </tr>
+                    <tr>
+                        <td>Holland</td>
+                        <td>NL</td>
+                    </tr>
+                    <tr>
+                        <td>Belgia</td>
+                        <td>BE</td>
+                    </tr>
+                    <tr>
+                        <td>Luksemburg</td>
+                        <td>LU</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <h2>Tarneklauslid ehk Incoterms® 2020</h2>
+        <div class="highlight">
+            <p><strong>Mis on tarneklauslid (inglise keeles Incoterms ehk International Commercial Terms)?</strong>
+                Tegemist on kaubandusterminitega, mis on kasutusel ostja ja müüja vahelises kaubavahetuses.
+                Tarneklauslite tingimusi kasutatakse selleks, et leppida kokku, mis on ostja ja müüja kohustused, riskid
+                ja kulutused (kes korraldab kauba laadimise, transportimise, kindlustuse, tollivormistuse jt).</p>
+        </div>
+
+        <h3>E grupp – EXW</h3>
+        <p><strong>Incoterms® tähendus:</strong> EXW-saadetiste puhul tuleb peaaegu kõik kohustused kanda ostjal. Need
+            antakse vastuvõtjale üle saadetise esialgsel saatmise ajal ja kohas...</p>
+
+        <h3>F grupp – FCA, FAS, FOB</h3>
+        <p><strong>Incoterms® tähendus:</strong> FCA (franko vedaja, tarnekoht nimetatud), FAS (franko laeva kõrval,
+            nimetatud lastimissadam) ja FOB (franko laeva pardal) puhul ei maksa müüja põhiveo eest...</p>
+
+        <h3>C grupp – CPT, CIP, CFR, CIF</h3>
+        <p><strong>Incoterms® tähendus:</strong> CPT, CIP, kulu &amp; prahiraha (CFR) ja CIF puhul maksab põhiveo eest
+            müüja...</p>
+
+        <h3>D grupp – DPU, DAP, DDP</h3>
+        <p><strong>Incoterms® tähendus:</strong> Nii-nimetatud "täieliku kohaletoimetamise" gruppi kuulub DPU (tarnitud
+            kohale mahalaadimisega), DAP (tarnitud kohale) ja DDP (tarnitud, toll tasutud)...</p>
+
+    </div>
+
+</body>
+
+</html>
