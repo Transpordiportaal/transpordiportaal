@@ -136,9 +136,9 @@ Väljumine	Lähteriik	Lähtekoht (linn, asula)	Sihtriik	Sihtkoht (linn, asula)	L
 18.07.2025	FRA	Mortain	EST	Kehra	7	4.5	Kardintreiler
 18.07.2025	FRA	Rennes	EST	Narva	13.6	7.5	Megatreiler
 18.07.2025	FRA	Epinal	EST	Paldiski	5	6.5	Kardintreiler
-18.07.2025	FRA	Orleans	EST	Põltsamaa	3	1.5	Eurotreiler
-18.07.2025	FRA	Nancy	EST	Tallinn	13	17	Termotreiler
-18.07.2025	FRA	Mulhouse	EST	Viljandi	7.2	9	Megatreiler
+18.07.2026	FRA	Orleans	EST	Põltsamaa	3	1.5	Eurotreiler
+18.07.2026	FRA	Nancy	EST	Tallinn	13	17	Termotreiler
+18.07.2026	FRA	Mulhouse	EST	Viljandi	7.2	9	Megatreiler
 18.07.2025	FRA	Prantsusmaa	EST	Pärnu	6	9	Megatreiler
 17.07.2025	GER	Berlin	EST	Talinn	10	18	Megatreiler
 17.07.2025	GER	Hamburg	EST	Võru	1.2	2.5	Bokstreiler
