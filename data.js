@@ -49,8 +49,8 @@ Väljumine	Lähteriik	Lähtekoht (linn, asula)	Sihtriik	Sihtkoht (linn, asula)	L
 17.07.2026	CRO	Rabac	EST	Rapla	4.5	4.7	Kardintreiler
 17.07.2026	CRO	Rijeka	EST	Mahtra	2.2	3	Kardintreiler
 17.07.2026	CRO	Split	EST	Kohtla-Järve	4.2	8.2	Kardintreiler
-17.07.2025	FIN	Turku	EST	Narva	3.6	5.7	Kardintreiler
-17.07.2025	FRA	Chaumonti	EST	Karksi-Nuia	3.2	3.9	Kardintreiler
+17.07.2026	FIN	Turku	EST	Narva	3.6	5.7	Kardintreiler
+17.07.2026	FRA	Chaumonti	EST	Karksi-Nuia	3.2	3.9	Kardintreiler
 17.07.2025	FRA	Vesoul	EST	Viljandi	3	6	Termotreiler
 17.07.2025	FRA	Paris	EST	Tallinn	2.9	4.2	Bokstreiler
 17.07.2025	FRA	Orleans	EST	Tartu	2.6	4	Megatreiler
