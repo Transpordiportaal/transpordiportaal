@@ -451,7 +451,6 @@ Väljumine	Lähteriik	Lähtekoht (linn, asula)	Sihtriik	Sihtkoht (linn, asula)	L
 18.07.2026	GER	Heidelberg	EST	Jõhvi	3.4	5.5	Kardintreiler
 18.07.2026	GER	Paderborn	EST	Narva	3.6	6.6	Kardintreiler
 18.07.2026	GER	Darmstadt	EST	Kohtla-Järve	2.9	3.9	Kardintreiler
-18.07.2026	GER	Regensburg	EST	Võru	9	3	Bokstreiler
 18.07.2026	GER	Würzburg	EST	Jõgeva	5.1	7.8	Kardintreiler
 18.07.2026	GER	Ingolstadt	EST	Viljandi	2.4	3.4	Bokstreiler
 18.07.2026	GER	Heilbronn	EST	Keila	4	16	Bokstreiler
