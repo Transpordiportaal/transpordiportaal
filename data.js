@@ -598,51 +598,51 @@ Väljumine	Lähteriik	Lähtekoht (linn, asula)	Sihtriik	Sihtkoht (linn, asula)	L
 18.07.2026	POL	Chorzów 	EST	Paldiski	2.7	5.4	Termotreiler
 18.07.2026	POL	Koszalin	EST	Sillamäe	3.8	5.1	Megatreiler
 18.07.2026	POL	Kalisz	EST	Tartu	10	15	Kardintreiler
-19.07.2025	POL	Legnica	EST	Virtsu	4	16	Bokstreiler
-19.07.2025	POL	Grudziądz	EST	Tapa	6	9	Kardintreiler
-19.07.2025	POL	Jaworzno 	EST	Muuga	8	15	Megatreiler
-19.07.2025	POL	Słupsk	EST	Kehra	7	4.5	Kardintreiler
-19.07.2025	POL	Jastrzębie-Zdrój	EST	Narva	13.6	7.5	Megatreiler
-19.07.2025	POL	Nowy Sącz	EST	Paldiski	5	6.5	Kardintreiler
-19.07.2025	POL	Jelenia Góra	EST	Põltsamaa	3	1.5	Eurotreiler
-19.07.2025	POL	Siedlce	EST	Tallinn	13	17	Termotreiler
-19.07.2025	POL	Mysłowice 	EST	Viljandi	7.2	9	Megatreiler
-19.07.2025	POL	Konin	EST	Pärnu	6	9	Megatreiler
-19.07.2025	POL	Piła	EST	Paide	4.5	7	Kardintreiler
-19.07.2025	POL	Piotrków Trybunalski	EST	Elva	2.7	3.7	Kardintreiler
-19.07.2025	POL	Lubin	EST	Rapla	3.5	6.5	Bokstreiler
-19.07.2025	POL	Inowrocław	EST	Kohtla_Järve	2.5	3.5	Kardintreiler
-19.07.2025	POL	Ostrów Wielkopolski	EST	Tallinn	2.8	3.8	Kardintreiler
-19.07.2025	POL	Suwałki	EST	Pärnu	3.3	6.6	Kardintreiler
-19.07.2025	POL	Stargard	EST	Narva	4.5	6	Kardintreiler
-19.07.2025	POL	Gniezno	EST	Viljandi	3.6	5.3	Kardintreiler
-19.07.2025	POL	Ostrowiec Świętokrzyski	EST	Türi	3.1	5.1	Kardintreiler
-19.07.2025	POL	Siemianowice Śląskie	EST	Tallinn	3.8	6	Bokstreiler
-19.07.2025	POL	Głogów	EST	Paide	3.8	6.6	Kardintreiler
-19.07.2025	POL	Pabianice	EST	Elva	4.5	8	Bokstreiler
-19.07.2025	POL	Leszno	EST	Tartu	4.1	7.3	Termotreiler
-19.07.2025	POL	Żory	EST	Tapa	3.8	5	Kardintreiler
-19.07.2025	POL	Zamość	EST	Võru	4	8	Kardintreiler
-19.07.2025	POL	Pruszków	EST	Pärnu	2.7	1.9	Kardintreiler
-19.07.2025	POL	Łomża	EST	Keila	3.5	5.6	Kardintreiler
-19.07.2025	POL	Ełk	EST	Tallinn	2.2	3.2	Termotreiler
-19.07.2025	POL	Tarnowskie Góry	EST	Valga	3	4.5	Bokstreiler
-19.07.2025	POL	Tomaszów Mazowiecki	EST	Haaapsalu	4.1	5.6	Kardintreiler
-19.07.2025	POL	Chełm	EST	Tartu	2	2.8	Kardintreiler
-19.07.2025	POL	Mielec	EST	Märjamaa	2.5	4	Megatreiler
-19.07.2025	POL	Kędzierzyn-Koźle	EST	Tallinn	5	6.5	Bokstreiler
-19.07.2025	POL	Przemyśl	EST	Võru	3	1.5	Eurotreiler
-19.07.2025	POL	Stalowa Wola	EST	Mustvee	3	4.7	Bokstreiler
-19.07.2025	POL	Tczew	EST	Tallinn	3.7	7.5	Megatreiler
-19.07.2025	POL	Biała Podlaska	EST	Koeru	4.7	6.3	Kardintreiler
-19.07.2025	POL	Bełchatów	EST	Vändra	3.2	4	Eurotreiler
-19.07.2025	POL	Świdnica	EST	Jüri	3.7	5.9	Megatreiler
-19.07.2025	POL	Będzin	EST	Tallinn	3.2	5.7	Eurotreiler
-19.07.2025	POL	Zgierz	EST	Paide	4.2	5.2	Kardintreiler
-19.07.2025	POL	Piekary Śląskie	EST	Valga	3.9	4.8	Kardintreiler
-19.07.2025	POL	Racibórz	EST	Haapsalu	2.5	3.5	Kardintreiler
-19.07.2025	POL	Legionowo	EST	Lihula	3.9	5.5	Kardintreiler
-19.07.2025	POL	Ostrołęka	EST	Põlva	4	5.7	Kardintreiler
+18.07.2026	POL	Legnica	EST	Virtsu	4	16	Bokstreiler
+18.07.2026	POL	Grudziądz	EST	Tapa	6	9	Kardintreiler
+18.07.2026	POL	Jaworzno 	EST	Muuga	8	15	Megatreiler
+18.07.2026	POL	Słupsk	EST	Kehra	7	4.5	Kardintreiler
+18.07.2026	POL	Jastrzębie-Zdrój	EST	Narva	13.6	7.5	Megatreiler
+18.07.2026	POL	Nowy Sącz	EST	Paldiski	5	6.5	Kardintreiler
+18.07.2026	POL	Jelenia Góra	EST	Põltsamaa	3	1.5	Eurotreiler
+18.07.2026	POL	Siedlce	EST	Tallinn	13	17	Termotreiler
+18.07.2026	POL	Mysłowice 	EST	Viljandi	7.2	9	Megatreiler
+18.07.2026	POL	Konin	EST	Pärnu	6	9	Megatreiler
+18.07.2026	POL	Piła	EST	Paide	4.5	7	Kardintreiler
+18.07.2026	POL	Piotrków Trybunalski	EST	Elva	2.7	3.7	Kardintreiler
+18.07.2026	POL	Lubin	EST	Rapla	3.5	6.5	Bokstreiler
+18.07.2026	POL	Inowrocław	EST	Kohtla_Järve	2.5	3.5	Kardintreiler
+18.07.2026	POL	Ostrów Wielkopolski	EST	Tallinn	2.8	3.8	Kardintreiler
+18.07.2026	POL	Suwałki	EST	Pärnu	3.3	6.6	Kardintreiler
+18.07.2026	POL	Stargard	EST	Narva	4.5	6	Kardintreiler
+18.07.2026	POL	Gniezno	EST	Viljandi	3.6	5.3	Kardintreiler
+18.07.2026	POL	Ostrowiec Świętokrzyski	EST	Türi	3.1	5.1	Kardintreiler
+18.07.2026	POL	Siemianowice Śląskie	EST	Tallinn	3.8	6	Bokstreiler
+18.07.2026	POL	Głogów	EST	Paide	3.8	6.6	Kardintreiler
+18.07.2026	POL	Pabianice	EST	Elva	4.5	8	Bokstreiler
+18.07.2026	POL	Leszno	EST	Tartu	4.1	7.3	Termotreiler
+18.07.2026	POL	Żory	EST	Tapa	3.8	5	Kardintreiler
+18.07.2026	POL	Zamość	EST	Võru	4	8	Kardintreiler
+18.07.2026	POL	Pruszków	EST	Pärnu	2.7	1.9	Kardintreiler
+18.07.2026	POL	Łomża	EST	Keila	3.5	5.6	Kardintreiler
+18.07.2026	POL	Ełk	EST	Tallinn	2.2	3.2	Termotreiler
+18.07.2026	POL	Tarnowskie Góry	EST	Valga	3	4.5	Bokstreiler
+18.07.2026	POL	Tomaszów Mazowiecki	EST	Haaapsalu	4.1	5.6	Kardintreiler
+18.07.2026	POL	Chełm	EST	Tartu	2	2.8	Kardintreiler
+18.07.2026	POL	Mielec	EST	Märjamaa	2.5	4	Megatreiler
+18.07.2026	POL	Kędzierzyn-Koźle	EST	Tallinn	5	6.5	Bokstreiler
+18.07.2026	POL	Przemyśl	EST	Võru	3	1.5	Eurotreiler
+18.07.2026	POL	Stalowa Wola	EST	Mustvee	3	4.7	Bokstreiler
+18.07.2026	POL	Tczew	EST	Tallinn	3.7	7.5	Megatreiler
+18.07.2026	POL	Biała Podlaska	EST	Koeru	4.7	6.3	Kardintreiler
+18.07.2026	POL	Bełchatów	EST	Vändra	3.2	4	Eurotreiler
+18.07.2026	POL	Świdnica	EST	Jüri	3.7	5.9	Megatreiler
+18.07.2026	POL	Będzin	EST	Tallinn	3.2	5.7	Eurotreiler
+18.07.2026	POL	Zgierz	EST	Paide	4.2	5.2	Kardintreiler
+18.07.2026	POL	Piekary Śląskie	EST	Valga	3.9	4.8	Kardintreiler
+18.07.2026	POL	Racibórz	EST	Haapsalu	2.5	3.5	Kardintreiler
+18.07.2026	POL	Legionowo	EST	Lihula	3.9	5.5	Kardintreiler
+18.07.2026	POL	Ostrołęka	EST	Põlva	4	5.7	Kardintreiler
 20.07.2025	POL	Warsaw	EST	Märjamaa	3.6	6.6	Kardintreiler
 20.07.2025	POL	Kraków	EST	Saue	4.6	6.4	Kardintreiler
 20.07.2025	POL	Łódź	EST	Jõgeva	3.6	5.6	Kardintreiler
