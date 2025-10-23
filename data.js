@@ -829,7 +829,6 @@ Väljumine	Lähteriik	Lähtekoht (linn, asula)	Sihtriik	Sihtkoht (linn, asula)	L
 15.07.2026	GER	Hamburg	EST	Viljandi	4.2	2.8	Kardintreiler
 15.07.2026	GER	Dessau	EST	Tallinn	2.8	3.8	Kardintreiler
 15.07.2026	GER	Hannover	EST	Võru	2.8	4.0	Bokstreiler
-15.07.2026	GER	Osnabrück	EST	Kuusalu	5.4	7.5	Kardintreiler
 15.07.2026	GER	Potsdam	EST	Jõgeva	3.2	3.0	Eurotreiler
 15.07.2026	GER	Mainz	EST	Jõgeva	2.0	1.2	Eurotreiler
 15.07.2026	GER	Wolfsburg	EST	Mustla	4.4	3.3	Eurotreiler
