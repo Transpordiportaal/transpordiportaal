@@ -450,7 +450,6 @@ Väljumine	Lähteriik	Lähtekoht (linn, asula)	Sihtriik	Sihtkoht (linn, asula)	L
 18.07.2026	GER	Neuss	EST	Viljandi	3.5	5.6	Bokstreiler
 18.07.2026	GER	Heidelberg	EST	Jõhvi	3.4	5.5	Kardintreiler
 18.07.2026	GER	Paderborn	EST	Narva	3.6	6.6	Kardintreiler
-18.07.2026	GER	Darmstadt	EST	Kohtla-Järve	2.9	3.9	Kardintreiler
 18.07.2026	GER	Würzburg	EST	Jõgeva	5.1	7.8	Kardintreiler
 18.07.2026	GER	Ingolstadt	EST	Viljandi	2.4	3.4	Bokstreiler
 18.07.2026	GER	Heilbronn	EST	Keila	4	16	Bokstreiler
@@ -464,7 +463,7 @@ Väljumine	Lähteriik	Lähtekoht (linn, asula)	Sihtriik	Sihtkoht (linn, asula)	L
 18.07.2026	GER	Fürth	EST	Tallinn	5	7	Bokstreiler
 18.07.2026	GER	Bremerhaven	EST	Tartu	10	15	Megatreiler
 18.07.2026	GER	Reutlingen	EST	Tallinn	7	12	Bokstreiler
-18.07.2026  GER	Remscheid	EST	Paide	3.8	6.6	Kardintreiler
+18.07.2026	GER	Remscheid	EST	Paide	3.8	6.6	Kardintreiler
 18.07.2026	GER	Koblenz	EST	Elva	4.5	8	Bokstreiler
 18.07.2026	GER	Bergisch Gladbach	EST	Tartu	4.1	7.3	Termotreiler
 18.07.2026	GER	Erlangen	EST	Tapa	3.8	5	Kardintreiler
@@ -478,7 +477,6 @@ Väljumine	Lähteriik	Lähtekoht (linn, asula)	Sihtriik	Sihtkoht (linn, asula)	L
 22.10.2026	GER	Hamburg	EST	Tallinn	2.6	3.4	Kardintreiler
 23.10.2026	GER	Berlin	EST	Valga	5.6	8	Bokstreiler
 29.10.2026	GER	Stuttgart	EST	Tallinn	5	7	Bokstreiler
-17.07.2026	POL	Warsaw	EST	Talinn	10	18	Megatreiler
 17.07.2026	POL	Kraków	EST	Võru	1.2	2.5	Bokstreiler
 17.07.2026	POL	Łódź	EST	Tallinn	8	15	Kardintreiler
 17.07.2026	POL	Wrocław	EST	Tartu	12.6	21.5	Eurotreiler
@@ -492,7 +490,6 @@ Väljumine	Lähteriik	Lähtekoht (linn, asula)	Sihtriik	Sihtkoht (linn, asula)	L
 17.07.2026	POL	Gdynia 	EST	Aegviidu	5	8.1	Eurotreiler
 17.07.2026	POL	Częstochowa	EST	Tallinn	3	5	Bokstreiler
 17.07.2026	POL	Radom	EST	Keila	13	17	Eurotreiler
-17.07.2026  POL	Rzeszów	EST	Tartu	3	5	Bokstreiler
 17.07.2026	POL	Toruń	EST	Kauksi	1.6	0.8	Bokstreiler
 17.07.2026	POL	Sosnowiec	EST	Paide	1.4	1.5	Termotreiler
 17.07.2026	POL	Kielce	EST	Kärdla	7	4.5	Eurotreiler
@@ -929,7 +926,6 @@ Väljumine	Lähteriik	Lähtekoht (linn, asula)	Sihtriik	Sihtkoht (linn, asula)	L
 18.07.2026	GER	Jena	EST	Pärnu	3.6	5.0	Bokstreiler
 18.07.2026	GER	Nürnberg	EST	Viljandi	3.4	6.0	Kardintreiler
 18.07.2026	GER	Uelzen	EST	Vääna	5.2	6.6	Kardintreiler
-16.07.2026	GER	Leipzig	EST	Tapa	3.8	5.0	Eurotreiler
 16.07.2026	GER	Desaau	EST	Tallinn	2.8	3.8	Kardintreiler
 17.07.2026	GER	Leipzig	EST	Tallinn	3.0	5.4	Bokstreiler
 17.07.2026	GER	Leipzig	EST	Tallinn	3.5	6.5	Kardintreiler
@@ -955,7 +951,6 @@ Väljumine	Lähteriik	Lähtekoht (linn, asula)	Sihtriik	Sihtkoht (linn, asula)	L
 16.07.2026	GER	Chemnitz	EST	Keila	2.6	3.0	Eurotreiler
 20.07.2026	GER	Potstam	EST	Pärnu	3.2	4.5	Eurotreiler
 20.07.2026	GER	Potstam	EST	Pärnu	2.4	3.0	Eurotreiler
-19.07.2026  GER	Potstam	EST	Põlva	2.5	0.9	Eurotreiler
 20.07.2026	GER	Potstam	EST	Jüri	3.6	4.0	Eurotreiler
 20.07.2026	GER	Berliin	EST	Kuusalu	3.8	4.9	Kardintreiler
 20.07.2026	GER	Magdeburg	EST	Jõhvi	1.8	2.3	Bokstreiler
