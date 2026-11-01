@@ -498,8 +498,8 @@ Väljumine	Lähteriik	Lähtekoht (linn, asula)	Sihtriik	Sihtkoht (linn, asula)	L
 17.07.2027	POL	Zabrze 	EST	Tallinn	3	5	Bokstreiler
 17.07.2027	POL	Bielsko-Biała	EST	Pärnu	2.4	3.6	Kardintreiler
 17.07.2027	POL	Bytom	EST	Rakvere	4.4	8	Eurotreiler
-17.07.2026	POL	Zielona Góra	EST	Rapla	3.4	5.5	Termotreiler
-17.07.2026	POL	Rybnik	EST	Tallinn	4.1	4.8	Kardintreiler
+17.07.2027	POL	Zielona Góra	EST	Rapla	3.4	5.5	Termotreiler
+17.07.2027	POL	Rybnik	EST	Tallinn	4.1	4.8	Kardintreiler
 17.07.2026	POL	Ruda Śląska 	EST	Narva	3.3	3.4	Kardintreiler
 17.07.2026	POL	Elbląg	EST	Haapsalu	2	3.7	Kardintreiler
 17.07.2026	POL	Tychy	EST	Tallinn	3.5	8.5	Kardintreiler
