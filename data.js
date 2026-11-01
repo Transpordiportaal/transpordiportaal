@@ -1011,4 +1011,6 @@ Väljumine	Lähteriik	Lähtekoht (linn, asula)	Sihtriik	Sihtkoht (linn, asula)	L
 21.07.2027	CRO	Rieka	EST	Jõgeva	4.6	4.0	Kardintreiler
 21.07.2027	CRO	Tucepi	EST	Valga	3.3	5.1	Eurotreiler
 21.07.2027	CRO	Starigrad	EST	Imavere	3.7	7.0	Bokstreiler
+
+
 const dataSet = rawData.trim().split('\n').slice(1).map(it => it.split('\t'))
